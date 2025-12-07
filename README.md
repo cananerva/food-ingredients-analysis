@@ -34,15 +34,22 @@ The frontend uses HTML, CSS, and JavaScript and provides:
 food-ingredients-analysis/
 │
 ├── backend/
-│ ├── main.py
-│ ├── utils.py
-│ ├── train_model.py
-│ ├── ingredients_dict.csv
-│ └── requirements.txt
+│   ├── main.py
+│   ├── utils.py
+│   ├── train_model.py
+│   ├── ingredients_dict.csv
+│   └── requirements.txt
 │
-├── index.html
-├── script.js
-└── style.css
+├── frontend/
+│   ├── index.html
+│   ├── script.js
+│   └── style.css
+│
+├── models/
+│   └── ingredient_risk_model.joblib
+│
+├── README.md
+└── .gitignore
 
 
 ## Running Locally
