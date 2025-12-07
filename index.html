@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Food Ingredients Analyzer</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <style>
+    body {
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      max-width: 800px;
+      margin: 40px auto;
+      padding: 0 16px;
+      background: #f5f5f5;
+    }
+
+    h1 {
+      text-align: center;
+      margin-bottom: 24px;
+    }
+
+    .card {
+      background: white;
+      padding: 16px;
+      border-radius: 12px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+      margin-bottom: 20px;
+    }
+
+    textarea {
+      width: 100%;
+      min-height: 120px;
+      resize: vertical;
+      padding: 8px;
+      font-size: 14px;
+      font-family: inherit;
+      border-radius: 8px;
+      border: 1px solid #ccc;
+    }
+
+    button {
+      margin-top: 10px;
+      padding: 10px 18px;
+      font-size: 14px;
+      border-radius: 8px;
+      border: none;
+      cursor: pointer;
+      background: #2563eb;
+      color: white;
+      transition: 0.2s;
+    }
+
+    button:hover {
+      background: #1e4fcf;
+    }
+
+    button:disabled {
+      opacity: 0.6;
+      cursor: default;
+    }
+
+    .status {
+      margin-top: 8px;
+      font-size: 13px;
+      color: #555;
+    }
+
+    /* TABLO TASARIMI */
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 12px;
+    }
+
+    th, td {
+      border: 1px solid #e5e7eb;
+      padding: 8px;
+      font-size: 13px;
+      text-align: left;
+    }
+
+    th {
+      background: #e5e7eb;
+    }
+
+    tr:nth-child(even) {
+      background: #f9fafb;
+    }
+
+    .ocr-box {
+      margin-top: 8px;
+      font-size: 13px;
+      padding: 8px;
+      border-radius: 8px;
+      background: #f3f4f6;
+      white-space: pre-wrap;
+    }
+
+    .section-title {
+      margin-top: 16px;
+      font-weight: 600;
+      font-size: 14px;
+    }
+  </style>
+</head>
+
+
+<body>
+  <h1>Food Ingredients Analyzer</h1>
+
+  <!-- INPUT CARD -->
+  <div class="card">
+    <p><strong>Text Input</strong> – Enter the ingredients list from a packaged food:</p>
+
+    <textarea id="ingredientsInput" placeholder="Example: Sugar, glucose syrup, E322, E202, Palm oil"></textarea>
+
+    <button id="analyzeBtn">Analyze Text</button>
+
+    <hr style="margin:16px 0; border:none; border-top:1px solid #e5e7eb;" />
+
+    <p class="section-title">Or upload an ingredients image:</p>
+    <input type="file" id="imageInput" accept="image/*" />
+    <button id="analyzeImageBtn">Analyze Image</button>
+
+    <div class="section-title">Extracted Text (OCR):</div>
+    <div id="ocrText" class="ocr-box">No image analyzed yet.</div>
+
+    <div class="status" id="statusText"></div>
+  </div>
+
+
+  <!-- RESULT CARD -->
+  <div class="card">
+    <h3>Analysis Result</h3>
+    <div id="result">Result will appear here...</div>
+  </div>
+
+
+  <!-- JS DOSYASI -->
+  <script src="script.js"></script>
+
+</body>
+</html>

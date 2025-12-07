@@ -1,0 +1,280 @@
+code,common_name,category,risk,description
+E100,Kurkumin,renklendirici,dusuk,Zerdeçal kökenli sarı pigment
+E101,Riboflavin,renklendirici,dusuk,B2 vitamini kaynaklı sarı renk
+E102,Tartrazin,renklendirici,orta,Sarı yapay boya
+E104,Kinolin sarısı,renklendirici,yuksek,Sentetik sarı renk verici
+E110,Gün batımı sarısı,renklendirici,orta,Turuncu tonlu boya
+E120,Karmin,renklendirici,orta,Böcek kökenli kırmızı pigment
+E122,Azorubin,renklendirici,orta,Kırmızı/pembe renk verici boya
+E123,Amarant,renklendirici,yuksek,Kırmızı tonlu yapay pigment
+E124,Ponceau 4R,renklendirici,yuksek,Kırmızı yapay boya
+E127,Eritrosin,renklendirici,yuksek,Pembe/kırmızı boya
+E129,Allura Red,renklendirici,orta,Kırmızı gıda boyası
+E131,Patent Blue V,renklendirici,orta,Mavi pigment
+E132,İndigotin,renklendirici,orta,Mavi renk verici
+E133,Brilliant Blue FCF,renklendirici,orta,Canlı mavi gıda boyası
+E140,Klorofil,renklendirici,dusuk,Bitkisel yeşil pigment
+E141,Bakır klorofilin,renklendirici,orta,Isıya dayanıklı yeşil pigment
+E150a,Karamel A,renklendirici,orta,Isıtılmış şekerden elde edilen karamel rengi
+E150b,Sülfitle karamel,renklendirici,orta,Koyu karamel rengi
+E150c,Amonyaklı karamel,renklendirici,orta,Kola tipi kahverengi pigment
+E150d,Amonyak-sülfit karamel,renklendirici,orta,Koyu karamel rengi
+E151,Brilliant Black,renklendirici,yuksek,Siyah pigment
+E160a,Beta-karoten,renklendirici,dusuk,Havuç kökenli turuncu pigment
+E160e,Apokarotenal,renklendirici,dusuk,Turuncu pigment
+E161b,Lutein,renklendirici,dusuk,Bitkisel sarı pigment
+E162,Pancar kırmızısı,renklendirici,dusuk,Doğal kırmızı pigment
+E170,Kalsiyum karbonat,renklendirici,dusuk,Beyaz pigment
+E171,Titanyum dioksit,renklendirici,yuksek,Beyaz opaklaştırıcı pigment
+E172,Demir oksitler,renklendirici,orta,Kırmızı–sarı–kahverengi pigment karışımı
+E200,Sorbik asit,koruyucu,orta,Küf ve maya karşıtı koruyucu
+E202,Potasyum sorbat,koruyucu,orta,Küf önleyici koruyucu
+E210,Benzoik asit,koruyucu,orta,Asitli yiyeceklerde kullanılan koruyucu
+E211,Sodyum benzoat,koruyucu,orta,İçecek ve soslarda koruyucu
+E212,Potasyum benzoat,koruyucu,orta,İçeceklerde yaygın koruyucu
+E220,Kükürt dioksit,koruyucu,yuksek,Kuru meyvelerde sülfitleyici katkı
+E221,Sodyum sülfit,koruyucu,yuksek,Alerjen sülfitleyici koruyucu
+E222,Sodyum bisülfit,koruyucu,yuksek,Sülfitleyici koruyucu madde
+E223,Sodyum metabisülfit,koruyucu,yuksek,Kurutulmuş gıdalarda güçlü koruyucu
+E224,Potasyum metabisülfit,koruyucu,yuksek,Şarapta yaygın kullanılan koruyucu
+E234,Nisin,koruyucu,dusuk,Doğal antimikrobiyal koruyucu
+E235,Natamisin,koruyucu,orta,Peynir yüzey koruyucu antimikrobiyal
+E260,Asetik asit,asitlik duzenleyici,dusuk,Sirke asidi
+E270,Laktik asit,asitlik duzenleyici,dusuk,Fermente kaynaklı doğal asit
+E296,Malik asit,asitlik duzenleyici,orta,Ekşi tat verici organik asit
+E297,Fumarik asit,asitlik duzenleyici,dusuk,Kuru toz içeceklerde kullanılan asit
+E300,Askorbik asit,antioksidan,dusuk,C vitamini kaynaklı antioksidan
+E301,Sodyum askorbat,antioksidan,dusuk,İşlenmeye dayanıklı C vitamini
+E302,Kalsiyum askorbat,antioksidan,dusuk,Antioksidan katkı maddesi
+E306,Tokoferoller,antioksidan,dusuk,E vitamini karışımı antioksidan
+E307,Alfa-tokoferol,antioksidan,dusuk,E vitamini türevi antioksidan
+E310,Propil gallat,antioksidan,orta,Yağ oksidasyonunu önleyici
+E320,BHA,antioksidan,orta,Tartışmalı yapay antioksidan katkı
+E321,BHT,antioksidan,orta,Yağ stabilitesi sağlayan antioksidan
+E322,Lesitin,emulgator,dusuk,Doğal emülgatör fosfolipit
+E325,Sodyum laktat,emulgator,dusuk,Tamponlayıcı ve kıvam verici katkı
+E326,Potasyum laktat,emulgator,dusuk,Asit düzenleyici katkı
+E327,Kalsiyum laktat,emulgator,dusuk,Kıvam ve stabilite sağlayan katkı
+E330,Sitrik asit,asitlik duzenleyici,dusuk,Yaygın organik asit
+E331,Sodyum sitrat,asitlik duzenleyici,dusuk,Tamponlayıcı sitrat tuzu
+E332,Potasyum sitrat,asitlik duzenleyici,dusuk,Asit düzenleyici
+E333,Kalsiyum sitrat,asitlik duzenleyici,dusuk,Asidite dengeleyici
+E334,Tartarik asit,asitlik duzenleyici,dusuk,Şarapta doğal olarak bulunan asit
+E335,Sodyum tartarat,asitlik duzenleyici,dusuk,Asit tamponlayıcı
+E336,Potasyum tartarat,asitlik duzenleyici,dusuk,Şarap taşı tuzu
+E338,Fosforik asit,asitlik duzenleyici,orta,Kola içeceklerinde kullanılan asit
+E339,Sodyum fosfatlar,asitlik duzenleyici,orta,Pişmiş ürünlerde stabilite için kullanılır
+E340,Potasyum fosfatlar,asitlik duzenleyici,orta,İçecek tozlarında tamponlayıcı
+E341,Kalsiyum fosfatlar,asitlik duzenleyici,orta,Kabartıcı yardımcı bileşen
+E400,Aljinik asit,kivam artirici,dusuk,Deniz yosunu lifinden elde edilen kıvam artırıcı
+E401,Sodyum aljinat,kivam artirici,dusuk,Jelleştirici kıvam artırıcı
+E402,Potasyum aljinat,kivam artirici,dusuk,Stabilize edici bitkisel kıvam artırıcı
+E403,Amonyum aljinat,kivam artirici,dusuk,Yoğunlaştırıcı jel bileşeni
+E404,Kalsiyum aljinat,kivam artirici,dusuk,Jel oluşturucu katkı
+E405,Propilen glikol aljinat,kivam artirici,orta,Asitli ürünlerde kıvam artırıcı
+E406,Agar,jel yapici,dusuk,Doğal jel oluşturucu
+E407,Karragenan,jel yapici,orta,Süt ürünlerinde kıvam verici katkı
+E410,Keçiboynuzu gam,kivam artirici,dusuk,Kıvam artırıcı doğal lif
+E412,Guar gam,kivam artirici,dusuk,Soslarda ve çorbalarda yapı sağlar
+E413,Tragakant gam,kivam artirici,dusuk,Nadir doğal reçine
+E414,Arap zamkı,stabilizator,dusuk,Şekerleme bağlayıcı stabilizatör
+E415,Ksantan gam,kivam artirici,orta,Glutensiz hamurlarda stabilizatör
+E416,Karaya gam,kivam artirici,orta,Kıvam veren doğal lif
+E417,Tara gam,kivam artirici,dusuk,Bitkisel kıvam verici
+E418,Gellan gam,kivam artirici,orta,Güçlü jel oluşturucu ajan
+E420,Sorbitol,sekerturevi,orta,Şeker alkolleri – tatlandırıcı
+E421,Mannitol,tatlandirici,dusuk,Düşük kalorili şeker alkolü
+E422,Gliserin,nem tutucu,dusuk,Sıvı tutucu ve tatlandırıcı özellikli
+E425,Konjak unu,kivam artirici,dusuk,Güçlü jel oluşturur
+E430,Polioksietilen stearat,emulgator,orta,Emülgatör yağ türevi
+E432,Polisorbat 20,emulgator,orta,Yağ-su karışımını stabilize eder
+E433,Polisorbat 80,emulgator,orta,Dondurmada hacim verici katkı
+E434,Polisorbat 40,emulgator,orta,Emülsiyon güçlendirici katkı
+E435,Polisorbat 60,emulgator,orta,Dondurma stabilizatörü
+E440,Pektin,jel yapici,dusuk,Meyve lifinden doğal jel oluşturucu
+E441,Jelatin,jel yapici,dusuk,Hayvansal kaynaklı jel oluşturucu madde
+E442,Amonyum fosfatid,emulgator,orta,Çikolatada akışkanlık artırıcı
+E444,Sukroz asetat izobutirat,stabilizator,orta,İçecek durultucu stabilizatör
+E445,Ağaç reçinesi esterleri,stabilizator,orta,Asılı partikülleri dengeleyici
+E450,Difosfatlar,kabarma ajani,orta,Keklerde kabarma sağlayıcı
+E451,Trifosfatlar,kabarma ajani,orta,Et ürünlerinde bağlayıcı
+E452,Polifosfatlar,stabilizator,orta,Su tutma kapasitesi artırıcı katkı
+E460,Selüloz,lif,dusuk,Dolgu ve lif katkısı
+E461,Mikrokristalin selüloz,lif,dusuk,Kıvam artırıcı doğal lif
+E462,Etillüloz,stabilizator,dusuk,Kapsül kaplama stabilizatörü
+E463,Hidroksipropil selüloz,stabilizator,dusuk,Yoğunlaştırıcı selüloz türevi
+E464,Hidroksipropil metil selüloz,kivam artirici,dusuk,Glutensiz ürünlerde kıvam verici
+E465,Metilselüloz,kivam artirici,dusuk,Jelleşme ajanı
+E466,Karboksimetilselüloz,kivam artirici,orta,Kıvam artırıcı ve stabilite sağlar
+E468,Sodyum karboksimetil selüloz,stabilizator,orta,Emülsiyon kuvvetlendirici
+E469,Enzim modifiye selüloz,stabilizator,dusuk,Yoğunlaştırıcı selüloz türevi
+E470a,Sodyum-potasyum yağ asitleri,emulgator,orta,Emülgatör yağ asidi türevleri
+E470b,Kalsiyum stearat,anti-topaklanma,dusuk,Toz ürünlerde akıcılık sağlar
+E471,Mono-digliseridler,emulgator,orta,Bitkisel yağ türevli emülgatör
+E472a,Asetik esterler,emulgator,orta,Hamur yapısını iyileştirir
+E472b,Laktik esterler,emulgator,orta,Kabuk yumuşatıcı
+E472c,Sitrik esterler,emulgator,orta,Yağ-su karışımını stabilize eder
+E472d,Tartarik esterler,emulgator,orta,Hamurda gaz tutucu
+E472e,Diasetil tartarik esterleri,emulgator,orta,Ekmek hacmini artırıcı
+E472f,Karma esterler,emulgator,orta,Kıvam ve hacim artırıcı karışım
+E474,Sukroglyseridler,emulgator,orta,Çikolata ve krema stabilizasyonu
+E475,Poligliserol esterleri,emulgator,orta,Dondurma kıvam artırıcı
+E476,PGPR,emulgator,orta,Çikolatalarda akışkanlık artırıcı
+E477,Propilen glikol esterleri,emulgator,orta,Krema stabilizeri
+E481,Sodyum stearol laktilat,emulgator,orta,Ekmek yumuşatıcı katkı
+E482,Kalsiyum stearol laktilat,emulgator,orta,Hacim artırıcı katkı
+E491,Sorbitan monostearat,emulgator,orta,Krema stabilizeri
+E492,Sorbitan tristearat,emulgator,orta,Cila maddesi
+E493,Sorbitan monolaurat,emulgator,orta,Gıda yağları için emülgatör
+E494,Sorbitan monooleat,emulgator,orta,Emülsiyon geliştirici katkı
+E495,Sorbitan monopalmitat,emulgator,orta,Kremalarda yapı artırıcı
+E500,Sodyum karbonat,kabarma ajani,dusuk,Karbonat olarak bilinen kabartıcı
+E501,Potasyum karbonat,kabarma ajani,orta,Şerbetli tatlılarda kullanılan kabartıcı
+E503,Amonyum karbonat,kabarma ajani,dusuk,Bisküvilerde kabarma sağlar
+E504,Magnezyum karbonat,anti-topaklanma,dusuk,Toz ürünlerde akıcılık sağlar
+E508,Potasyum klorür,tuz,dusuk,Tuz ikamesi olarak kullanılır
+E509,Kalsiyum klorür,düzenleyici,dusuk,Katılaştırıcı ve sertleştirici
+E510,Amonyum klorür,aroma,orta,Pastalarda tat verici
+E513,Sülfürik asit,asitlik duzenleyici,yuksek,Tampon kimyasal olarak kullanılır
+E515,Potasyum sülfat,stabilizator,dusuk,Asit dengeleyici
+E516,Kalsiyum sülfat,stabilizator,dusuk,Kalsiyum katkısı sağlayan stabilizatör
+E524,Sodyum hidroksit,asitlik duzenleyici,yuksek,Zeytin işlemelerinde kullanılan kuvvetli baz
+E525,Potasyum hidroksit,asitlik duzenleyici,yuksek,Endüstriyel baz
+E527,Amonyum hidroksit,asitlik duzenleyici,yuksek,Et işleme süreçlerinde kullanılan baz
+E530,Magnezyum oksit,asitlik duzenleyici,dusuk,Asit tamponu olarak kullanılır
+E535,Sodyum ferrosiyanür,anti-topaklanma,orta,Tuzda akışkanlık sağlama amacıyla kullanılır
+E536,Potasyum ferrosiyanür,anti-topaklanma,orta,Tuz akıcılığını artırır
+E541,Sodyum alüminyum fosfat,kabarma ajani,yuksek,Keklerde hacim artırıcı kabartıcı
+E551,Silikon dioksit,anti-topaklanma,dusuk,Toz ürünlerde topaklanmayı engeller
+E552,Kalsiyum silikat,anti-topaklanma,dusuk,Topaklanma önleyici mineral
+E553b,Talk,anti-topaklanma,dusuk,Kapsül kaplama ve topaklanma önleme
+E554,Sodyum alüminyum silikat,stabilizator,orta,Toz ürünlerde akıcılık sağlamaya yardımcı
+E570,Yağ asitleri,emulgator,dusuk,Doğal yağ bileşenleri
+E572,Magnezyum stearat,anti-topaklanma,dusuk,Tablet üretiminde kaydırıcı olarak kullanılır
+E575,Glikon delta lakton,asitlik duzenleyici,dusuk,pH düzenleyici
+E576,Sodyum glukonat,stabilizator,dusuk,Mineral dengeleyici katkı
+E579,Demir glukonat,renklendirici,dusuk,Zeytin siyahlaştırıcı renklendirici
+E586,4-Hidroksibenzaldehit,antioksidan,orta,Raf ömrünü artıran antioksidan
+E600,Lizin,aroma,dusuk,Amino asit katkısı
+E620,Glutamik asit,lezzet artirici,orta,Umami artırıcı tat bileşeni
+E621,MSG,lezzet artirici,yuksek,Tat artırıcı – hassasiyet yapabilir
+E622,Monopotasyum glutamat,lezzet artirici,orta,Tat güçlendirici katkı
+E623,Kalsiyum diglutamat,lezzet artirici,orta,Umami artırıcı katkı
+E627,Disodyum guanilat,lezzet artirici,orta,Et aromalarını güçlendiren tat artırıcı
+E631,Disodyum inosinat,lezzet artirici,orta,Umami katkısı
+E635,Ribonukleotidler,lezzet artirici,orta,MSG güçlendirici bileşik
+E901,Bal mumu,kaplama,dusuk,Doğal cila maddesi
+E903,Karnauba mumu,kaplama,dusuk,Şekerleme ve çikolata için parlaklık verici
+E904,Şellak,kaplama,dusuk,Glaze kaplama maddesi
+E905,Parafin yağı,kaplama,orta,Gıdalarda koruyucu kaplama olarak kullanılır
+E914,Oksitlenmiş polietilen mumu,kaplama,orta,Glazeleme maddesi
+E920,L-sistein,un düzenleyici,orta,Ekmek elastikiyet artırıcı katkı
+E927b,Karbamid,un düzenleyici,orta,Hamur geliştirme ajanı
+E938,Argon,paketleme gazı,dusuk,Bozulmayı önleyen inert gaz
+E939,Helium,paketleme gazı,dusuk,İnert paketleme gazı
+E940,Butan,itici gaz,orta,Sprey yağlarda kullanılan itici gaz
+E941,Azot,paketleme gazı,dusuk,Oksidasyonu engelleyici inert gaz
+E942,Azot oksit,itici gaz,orta,Krem şanti tüplerinde kullanılan gaz
+E943a,Butan,itici gaz,orta,Sprey ürünlerde itici gaz
+E943b,İzobutan,itici gaz,orta,Aerosol ürünlerde itici gaz
+E948,Oksijen,itici gaz,dusuk,Paketleme gazı
+E949,Hidrojen,paketleme gazı,orta,İnert karışımlarda kullanılan gaz
+
+Glucose syrup,Glikoz şurubu,seker turevi,orta,İşlenmiş gıdalarda tatlandırıcı olarak kullanılan şurup şeker
+High fructose corn syrup,YFMŞ,seker,yuksek,İçeceklerde yaygın olan yüksek fruktozlu mısır şurubu
+Sucrose,Sakkaroz,seker,orta,Sofra şekeri
+Fructose,Fruktoz,seker,orta,Meyve şekeri
+Dextrose,Dekstroz,seker,orta,Glikoz türü basit şeker
+Maltose,Maltoz,seker,orta,Çimlendirilmiş tahıl şurubu şekeri
+Lactose,Laktoz,seker,orta,Süt şekeri
+Whey protein,Peynir altı suyu proteini,protein,orta,Sporcu ürünlerinde kullanılan protein
+Casein,Kazein,protein,orta,Süt proteini
+
+Soy protein,Soya proteini,protein,orta,Alerjen olabilen bitkisel protein
+Pea protein,Bezelye proteini,protein,dusuk,Bitkisel protein kaynağı
+Oat fiber,Yulaf lifi,lif,dusuk,Diyet lifi katkısı
+Inulin,İnülin,lif,dusuk,Prebiyotik lif
+Cellulose,Selüloz,lif,dusuk,Dolgu maddesi
+Corn starch,Mısır nişastası,nisasta,dusuk,Koyulaştırıcı
+Wheat flour,Beyaz un,tahil,orta,Rafine un
+Whole wheat flour,Tam buğday unu,tahil,dusuk,Daha yüksek lif içerir
+Rye flour,Çavdar unu,tahil,dusuk,Ekmeklerde kullanılan tahıl unu
+Salt,Tuz,tuz,orta,Yüksek tüketimde risk oluşturabilir
+Sea salt,Deniz tuzu,tuz,orta,Doğal tuz kaynağı
+Vanilla extract,Vanilya özütü,aroma,dusuk,Doğal vanilya aroması
+Vanillin,Vanilin,aroma,orta,Sentetik vanilya aroması
+Natural flavors,Doğal aroma,aroma,orta,Kaynağı açıklanmayan doğal aromalar
+Artificial flavors,Suni aroma,aroma,orta,Sentetik aroma karışımı
+Cocoa mass,Kakao kitlesi,kakao,dusuk,Çikolata ana malzemesi
+Cocoa butter,Kakao yağı,yag,dusuk,Çikolata yağı
+Cocoa powder,Kakao tozu,kakao,dusuk,Kakao çekirdeği tozu
+Milk powder,Süt tozu,süt urunu,orta,Kurutulmuş süt
+Skimmed milk powder,Yağsız süt tozu,süt urunu,orta,Az yağlı süt bileşeni
+Butter,Tereyağı,yag,orta,Hayvansal yağ
+Vegetable oil,Bitkisel yağ,yag,orta,Bilinmeyen kaynaklı karışık yağ
+Sunflower oil,Ayçiçek yağı,yag,orta,Pişirme yağı
+Canola oil,Kanola yağı,yag,orta,Düşük doymuş yağ içerir
+Palm oil,Palm yağı,yag,yuksek,Doymuş yağ oranı yüksek yağ
+Margarine,Margarin,yag,orta,Bitkisel yağ karışımı
+Glycerin,Gliyerol,nem tutucu,dusuk,Kuru ürünlerde nem sağlayan bileşen
+Sorbitol,Sorbitol,nem tutucu,orta,Şeker alkollerinden nem tutucu katkı
+Propylene glycol,Propilen glikol,nem tutucu,orta,Nem dengeleyici bileşen
+Citric acid monohydrate,Sitrik asit monohidrat,asitlik duzenleyici,dusuk,Asit dengesi sağlayan sitrik asit formu
+Potassium citrate,Potasyum sitrat,asitlik duzenleyici,dusuk,Tamponlayıcı katkı
+Zinc oxide,Çinko oksit,minerals,dusuk,Takviye minerali
+Magnesium oxide,Magnezyum oksit,minerals,dusuk,Mineral kaynağı katkı
+Calcium carbonate,Kalsiyum karbonat,minerals,dusuk,Kalsiyum takviyesi olarak kullanılır
+Ferrous fumarate,Demir fumarat,minerals,orta,Demir kaynağı mineral
+Niacin,Niasin,vitamin,dusuk,B3 vitamini
+Riboflavin,Riboflavin,vitamin,dusuk,B2 vitamini
+Thiamine,Tiamin,vitamin,dusuk,B1 vitamini
+Pyridoxine,Pridoksin,vitamin,dusuk,B6 vitamini
+Cyanocobalamin,B12 vitamini,vitamin,dusuk,Takviye amaçlı kullanılan B12 formu
+Folic acid,Folik asit,vitamin,dusuk,B9 vitamini kaynağı
+Biotin,Biyotin,vitamin,dusuk,Saç ve deri sağlığı vitamini
+Tocopherol,E vitamini,vitamin,dusuk,Antioksidan vitamin
+Retinyl palmitate,A vitamini,vitamin,dusuk,Görme fonksiyonu vitamini
+Ascorbic acid,C vitamini,vitamin,dusuk,Antioksidan C vitamini
+Inositol,İnozitol,vitamin,dusuk,B-kompleks benzeri bileşen
+Betaine,Betain,aminoasit,dusuk,Metabolizma destekleyici
+L-carnitine,L-karnitin,aminoasit,dusuk,Yağ metabolizmasında görevli
+L-glutamine,L-glutamin,aminoasit,dusuk,Bağırsak sağlığına destek sağlayan aminoasit
+L-arginine,L-arjinin,aminoasit,dusuk,Kas ve damar genişletici aminoasit
+L-leucine,L-lösin,aminoasit,dusuk,BCAA proteini
+L-isoleucine,L-izolösin,aminoasit,dusuk,BCAA aminoasidi
+L-valine,L-valin,aminoasit,dusuk,BCAA aminoasidi
+Guarana extract,Guarana özü,kafein,orta,Doğal kafein kaynağı uyarıcı
+Caffeine,Kafein,kafein,orta,Uyarıcı madde
+Taurine,Taurin,enerji,dusuk,İçeceklerde kullanılan enerji bileşeni
+Spirulina,Spirulina,doğal,dusuk,Mavi-yeşil alg takviyesi
+Matcha powder,Matcha,toz,dusuk,Antioksidan çay tozu
+Ginger extract,Zencefil özü,doğal,dusuk,Doğal aroma ve antioksidan katkı
+Turmeric extract,Zerdeçal özü,doğal,dusuk,Anti-inflamatuar özellikli
+Rosemary extract,Biberiye özü,antioksidan,dusuk,Doğal koruyucu antioksidan
+Sugar,Şeker,tatlandirici,orta,Yaygın kullanılan basit şeker
+Whole milk powder,Tam yağlı süttozu,süt urunu,orta,Kurutulmuş tam yağlı süt
+Aroma verici,Doğal/Suni aroma,aroma,orta,Kaynağı belirtilmeyen aroma karışımı
+Egg traces,Yumurta eseri,alerjen,orta,Eser miktarda yumurta kalıntısı içerebilir
+Gluten,Gluten,alerjen,orta,Buğday proteini ve yaygın alerjen
+Tree nuts,Sert kabuklu yemişler,alerjen,orta,Fındık ceviz badem gibi alerjen grup
+Ingredients (Sugar),Şeker,tatlandirici,orta,Paket üzerinde genel içerik bildirimi
+Whole milk powder (EN),Tam yağlı süttozu,süt urunu,orta,İngilizce içerik bildirimi
+Flavouring,Aroma verici,aroma,orta,Doğal veya sentetik tat verici karışım
+Cocoa solids,Kakao kuru maddesi,kakao,dusuk,Çikolatadaki kakao oranını belirten ifade
+Egg products,Yumurta ürünleri,alerjen,orta,Yumurta içeren bileşenler
+Nuts,Çerezler/kuruyemişler,alerjen,orta,Fındık ceviz badem gibi alerjenler
+Soy lecithin (emulsifier),Soya lesitini,emulgator,orta,Alerjen olabilen doğal emülgatör
+May contain traces of X,Eser miktarda X içerebilir,alerjen,orta,Çapraz bulaş uyarısı
+Milk, Süt,süt urunu,orta,Süt ve süt içeren bileşenler
+Butterfat,Süt yağı,süt yagı,orta,Sütteki doğal yağ oranı
+Milk solids,Süt katıları,süt urunu,orta,Sütün yağsız kısmı
+Chocolate flavour,Çikolata aroması,aroma,orta,Doğal veya suni çikolata aroması
+Caramel flavour,Karamel aroması,aroma,orta,Isıl işlemle elde edilen karamel aroması
+Natural flavouring,Doğal aroma,aroma,orta,Bitkisel/hayvansal doğal aromalar
+Artificial flavouring,Suni aroma,aroma,orta,Kimyasal olarak elde edilen aroma
+Aroma verici (TR),Aroma verici,aroma,orta,Kaynağı belirtilmeyen aromalar
+Milk ingredients,Süt türevleri,alerjen,orta,Sütten elde edilen tüm bileşenler
+Cocoa extract,Kakao özütü,kakao,dusuk,Kakaodan yoğunlaştırılmış aroma özütü
+Milk chocolate flavor,Sütlü çikolata aroması,aroma,orta,Tat verici aroma karışımı
+Cocoa solids 30%,Kakao kuru maddesi,kakao,dusuk,Çikolata bileşen oranını belirten ifade
+
