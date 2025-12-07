@@ -1,6 +1,13 @@
 # Food Ingredients Analysis App
 A full-stack application that analyzes packaged food ingredients through text or image input. The system uses FastAPI for backend processing, OCR for extracting text from images, and a Machine Learning model to estimate ingredient risk levels.
 
+# Food Ingredients Analyzer
+
+ **Live Demo:** https://cananerva.github.io/food-ingredients-analysis/
+
+A simple web-based tool that analyzes food ingredient lists and identifies potentially risky additives and ingredients. The project includes a machine learning model trained to classify risk levels based on ingredient content.
+
+
 ## Overview
 This project allows users to submit food ingredient information by typing the ingredient list or uploading an image. The system evaluates each ingredient, assigns a risk level, and calculates an overall product risk score. Unknown ingredients are processed through a Machine Learning model for risk estimation.
 
